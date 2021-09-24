@@ -38,7 +38,7 @@
 
 </head>
 <body class=" senandika camel " data-aos-easing="ease" data-aos-duration="1200" data-aos-delay="0">
-    
+
 
 @yield('konten')
 

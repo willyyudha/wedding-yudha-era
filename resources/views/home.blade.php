@@ -1,8 +1,6 @@
 ﻿@extends('layouts.app')
 @section('konten')
 @foreach($guest as $g)
-<!-- <iframe width="1" height="1" wmode="transparent" src="//www.youtube.com/embed/IQ7N7xRsRPo?autoplay=1&loop=1" frameborder="0" allowfullscreen>     -->
-<!-- Top Cover -->
 <section class="top-cover">
 
     <div class="inner">
@@ -79,7 +77,7 @@ Mr. I Gede Widhiyasa and Mrs. Ni Made Sulensi</p>
             <div class="bridegroom-separator" data-aos="zoom-out" data-aos-duration="1000">&amp;</div>
             <div class="bride">
                 <div class="bridegroom-border" data-aos="zoom-in" data-aos-duration="1000" data-aos-once="false">
-                                <img class="bridegroom-picture" data-aos="zoom-out-left" data-aos-duration="1000" data-aos-once="false" src="{{asset('src/src-foto-era-min.jpg')}}" alt="">
+                                <img class="bridegroom-picture" data-aos="zoom-out-left" data-aos-duration="1000" data-aos-once="false" src="{{asset('src/srcsrcfotofotoera.jpg')}}" alt="">
                             </div>                <div class="bridegroom-details">
                     <h1 data-aos="zoom-in" data-aos-duration="1000">Ni Putu Era Pristiyanti</h1>
                     <p data-aos="fade-up" data-aos-duration="1000">The Daughter of<br>
@@ -149,7 +147,7 @@ Mr. I Made Parwadi and Mrs. Ni Luh Sweni</p>
                     </div><div class="cover-show" id="cover-event"></div></div>        <div class="body">
             <div class="event">
                             <div class="title">
-                                <h1>Friday, <br>  October 8<sup>st</sup> 2021</h1>
+                                <h1>Friday, <br>  October 8<sup>th</sup> 2021</h1>
                                 <p></p>
                             </div><div class="activities"><div class="activity">
                                         <div class="title">
@@ -183,7 +181,7 @@ Mr. I Made Parwadi and Mrs. Ni Luh Sweni</p>
                                     <p>Jalan tukad citarum f1 no 81, Renon</p>
                                     <p>Kota Denpasar</p>
                                 </div>
-                                <a href="maps-1.html?cid=6086364269873275390" target="_blank">View Maps</a>
+                                <a href="https://www.google.com/maps/dir/-8.6780778,115.2481957/Gg.+FI+No.81,+Renon,+Kec.+Denpasar+Sel.,+Kota+Denpasar,+Bali+80226,+Indonesia/@-8.6785893,115.2352703,15z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x2dd240f8a3559999:0x164046c02f63452f!2m2!1d115.2356137!2d-8.6830672" target="_blank">View Maps</a>
                             </div></div>        </div>
 	 </div>   
 </section>	
@@ -253,7 +251,7 @@ Mr. I Made Parwadi and Mrs. Ni Luh Sweni</p>
 <section class="footnote">
     <div class="footnote-inner">
         <h1>Yudha & Era</h1>
-        <p>October 8<sup>st</sup>, 2021</p>
+        <p>October 8<sup>th</sup>, 2021</p>
     </div>
 </section>
 
