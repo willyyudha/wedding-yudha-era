@@ -1,6 +1,9 @@
 ﻿@extends('layouts.app')
 @section('konten')
 @foreach($guest as $g)
+<section class="music-outer aos-init aos-animate" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="300">
+                    <div class="music-box playing" id="music-box"></div>
+                </section>
 <section class="top-cover">
 
     <div class="inner">
@@ -126,7 +129,7 @@ Mr. I Made Parwadi and Mrs. Ni Luh Sweni</p>
                                 </div>
                                 <div class="video-outer"><div class="video">
                                         <div class="preview aos-init aos-animate" data-aos="zoom-in" data-aos-duration="1000">
-                                            <img src="https://i9.ytimg.com/vi/BGa5jn4faXY/mq2.jpg?sqp=COS6t4oG&rs=AOn4CLAnJNjIvbshjxG3huVKpUhq_3DnPw" alt="">
+                                            <img src="{{asset('src/youtub.jpg')}}" alt="">
                                             <button class="play-btn" data-video-id="BGa5jn4faXY"><i class="fas fa-play"></i></button>
                                         </div>
                                         <div class="title">

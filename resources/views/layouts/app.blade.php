@@ -41,8 +41,8 @@
 
 
 @yield('konten')
-
 <!-- MUSIC -->
+   
 <!-- ALERT -->
 <div class="alert" id="alert">
     <div class="alert-text"></div>
@@ -60,6 +60,8 @@
 <script src="{{asset('plugin/lightgallery/dist/js/lightgallery.min.js')}}"></script>
 
 <script>    
+    window.BACKGROUND_MUSIC = "{{asset('src/bestpart.wav')}}";
+
     window.SCHEDULE_EVENT = 1640916000;    
 
     window.DESKTOP_COVERS = "<div class=\"picture-outer desktop\">\n                                <img src=\"{{asset('src/fotoutama.png')}}\" alt=\"\" class=\"picture\">\n                            <\/div>";
