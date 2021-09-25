@@ -60,7 +60,7 @@
 <script src="{{asset('plugin/lightgallery/dist/js/lightgallery.min.js')}}"></script>
 
 <script>    
-    window.BACKGROUND_MUSIC = "{{asset('src/bestpart.wav')}}";
+    window.BACKGROUND_MUSIC = "{{asset('src/newweddingmusic.wav')}}";
 
     window.SCHEDULE_EVENT = 1640916000;    
 
