@@ -69,7 +69,7 @@
                 <div class="bridegroom-border" data-aos="zoom-in" data-aos-duration="1000" data-aos-once="false">   
                                 <img class="bridegroom-picture" data-aos="zoom-out-right" data-aos-duration="1000" data-aos-once="false" src="{{asset('src/src-foto-yudha.jpg')}}" alt="">
                             </div>                <div class="bridegroom-details">
-                    <h1 data-aos="zoom-in" data-aos-duration="1000">Putu Bagus Willie Yudha Maheswara</h1>
+                    <h1 data-aos="zoom-in" data-aos-duration="1000">Putu Bagus Willie Yudha Maheswara, S.Kom.</h1>
                     <p data-aos="fade-up" data-aos-duration="1000">The Son of <br>
 Mr. I Gede Widhiyasa and Mrs. Ni Made Sulensi</p>
                     <p class="bio" data-aos="fade-up" data-aos-duration="1000"></p>
